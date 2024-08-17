@@ -1,0 +1,1 @@
+This program calculates the longest side of a right angled triangle.
